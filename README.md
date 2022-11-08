@@ -1,10 +1,8 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Boas vindas ao repositório do projeto Trybers and Dragons! :dragon:
+Para este projeto, foi aplicado os princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
+# Como foi desenvolvimento
+Esse projeto foi feito individualmente dentro da organização da <a href="https://www.betrybe.com/" target="blanck" >TRYBE</a>.
+# Construído com
+* <a href="https://nodejs.org/en/" target="blanck" >Node.js</a> - Tecnologia utilizada.
+* <a href="https://www.typescriptlang.org/" target="blanck" >TypeScript</a> - Linguagem utilizada.
+* <a href="https://eslint.org/" target="blanck" >ESlint</a> - Biblioteca para corrigir problemas.
